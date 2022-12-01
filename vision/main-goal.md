@@ -6,7 +6,7 @@ description: >-
 
 # Main Goal
 
-Mining gold within the $DGOLD system means getting rewards from every single golden venture. Miners, our investors, will receive rewards in the form of $DGOLD and/or Gold ounces on a monthly basis.
+Mining gold within the $DGOLD system means getting rewards from every single golden venture. Miners, our investors, will receive rewards in the form of $DGOLD and/or Gold bullion on a monthly basis.
 
 We have implemented the Proof-of-Stake method. To become a stakeholder, your wallet must contain the $DGOLD tokens. The more $DGOLD tokens you hold, the more rewards you will receive.
 
