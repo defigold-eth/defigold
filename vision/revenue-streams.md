@@ -24,7 +24,7 @@ description: >-
 1. **Token Investment Profits,** due to our multiple revenue streams, LP staking and tokenomics, we have setup our project for continued success and a continuously rising floor
 2. **Staking APY,** with our staking APY ranging from 10% all the way to 55% APY you can earn a great profit just by locking up your tokens and bringing in the yield, we have our staking pools setup so they are profitable for our holders while maintaining sustainability in the project. The staking pools do have limited spots so grab yours before it fills up.
 3. **Stakers Rewards,** the holders who stake their DGOLD tokens for 6 months or more will earn passive income rewards in ETH periodically from the yield farming and gold mining profits because we believe in rewarding those who believe in us.
-4. **Monthly NFT Raffles,** sell the NFT you win in our monthly NFT raffles through our Golden Miint and you could walk away with a nice bag of ETH just for buying a raffle ticket.
+4. **Monthly NFT Raffles,** sell the NFT you win in our monthly NFT raffles through our Golden Mint and you could walk away with a nice bag of ETH just for buying a raffle ticket.
 
 
 

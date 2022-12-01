@@ -24,3 +24,4 @@
 ## GFTs
 
 * [Golden Fungible Tokens](gfts/golden-fungible-tokens.md)
+* [GoldenMint NFT Raffles](gfts/goldenmint-nft-raffles.md)
