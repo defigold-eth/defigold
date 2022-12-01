@@ -21,7 +21,7 @@
 
 * [Monthly Rewards & Bonuses](rewards/monthly-rewards-and-bonuses.md)
 
-## GFTs
+## NFTs
 
-* [Golden Fungible Tokens](gfts/golden-fungible-tokens.md)
-* [GoldenMint NFT Raffles](gfts/goldenmint-nft-raffles.md)
+* [Golden Fungible Tokens](nfts/golden-fungible-tokens.md)
+* [Golden Mint NFT Raffles](nfts/golden-mint-nft-raffles.md)
