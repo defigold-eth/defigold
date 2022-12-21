@@ -7,3 +7,5 @@
 Thank you
 
 \-DefiGold Team
+
+_\*Disclaimer\* profit shares are split evenly amongst all "$DGOLD" and "$DGOLD LP" stakers and you must stake at least 250,000 $DGOLD to qualify or 171 LP Tokens. ETH rewards will be sent out manually each month to the wallet address used when staking your $DGOLD. Rates and requirements may be subject to change._
