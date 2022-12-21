@@ -20,6 +20,7 @@
 ## Rewards
 
 * [Monthly Rewards & Bonuses](rewards/monthly-rewards-and-bonuses.md)
+* [Holders Passive Income](rewards/holders-passive-income.md)
 
 ## NFTs
 
