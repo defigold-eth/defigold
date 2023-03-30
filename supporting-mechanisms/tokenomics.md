@@ -1,3 +1,7 @@
-# Tokenomics
+---
+description: Tax Structure
+---
 
-<figure><img src="../.gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
+# 🏦 Tokenomics
+
+_\*We have removed all taxes, buy and sell as you please but remember, you must hold DGOLD if you want to use the BitFund\*_

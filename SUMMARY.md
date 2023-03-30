@@ -5,22 +5,15 @@
 
 ## Vision
 
-* [Main Goal](vision/main-goal.md)
-* [Revenue Streams](vision/revenue-streams.md)
-* [Roadmap](vision/roadmap.md)
+* [👨👩👧👦 Main Goal](vision/main-goal.md)
+* [💰 Revenue Streams](vision/revenue-streams.md)
 
 ## Supporting Mechanisms
 
-* [$DGOLD Staking](supporting-mechanisms/usddgold-staking.md)
-* [Liquidity Pool Staking](supporting-mechanisms/liquidity-pool-staking.md)
-* [Yield "Mining" (Farming)](supporting-mechanisms/yield-mining-farming.md)
-* [Physical Mining](supporting-mechanisms/physical-mining.md)
-* [Tokenomics](supporting-mechanisms/tokenomics.md)
-
-## Rewards
-
-* [Monthly Rewards & Bonuses](rewards/monthly-rewards-and-bonuses.md)
-* [Holders Passive Income](rewards/holders-passive-income.md)
+* [🏆 $DGOLD Holder Rewards](supporting-mechanisms/usddgold-holder-rewards.md)
+* [🔶 BitFund](supporting-mechanisms/bitfund.md)
+* [🥇 Gold Mining](supporting-mechanisms/gold-mining.md)
+* [🏦 Tokenomics](supporting-mechanisms/tokenomics.md)
 
 ## NFTs
 

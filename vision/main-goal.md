@@ -2,7 +2,7 @@
 description: Provide sustainable passive income to our investors through profit share
 ---
 
-# Main Goal
+# 👨👩👧👦 Main Goal
 
 Mining gold within the $DGOLD system means getting rewards from every single golden venture. Miners, our investors, will receive rewards in the form of $DGOLD straight into your wallet at 10% without even having to stake.
 
@@ -10,6 +10,5 @@ We have implemented Proof-of-Holding for our Utilities now as well. So if you wa
 
 We believe a strong project comes from strong community so we are focused on giving back as much as possible.
 
+<figure><img src="../.gitbook/assets/DefiGold_Twitter_Banner_Western.jpg" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../.gitbook/assets/main goal.png" alt=""><figcaption></figcaption></figure>
