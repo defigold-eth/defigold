@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to DefiGold](README.md)
-* [Disclaimer](<README (1).md>)
+* [⚖ Legal](legal.md)
 
 ## Vision
 

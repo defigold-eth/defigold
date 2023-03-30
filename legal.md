@@ -1,4 +1,8 @@
-# Disclaimer
+---
+description: Disclaimer
+---
+
+# ⚖ Legal
 
 Project purpose: You agree that you are acquiring DGOLD token to participate in rewards and to obtain services on the ecosystem thereon. The Company, the Distributor and their respective affiliates would develop and contribute to the underlying source code for DefiGold. The Company is acting solely as an arms’ length third party in relation to the DGOLD token distribution, and not in the capacity as a financial advisor or fiduciary of any person with regard to the distribution of DGOLD token.
 
