@@ -17,5 +17,5 @@
 
 ## NFTs
 
-* [Golden Fungible Tokens](gfts/golden-fungible-tokens.md)
-* [Golden Mint NFT Raffles](nfts/golden-mint-nft-raffles.md)
+* [👾 Golden Fungible Tokens](gfts/golden-fungible-tokens.md)
+* [👾 Golden Mint NFT Raffles](nfts/golden-mint-nft-raffles.md)
