@@ -13,3 +13,5 @@ The professional traders managing the Bitfund pool have years of experience in t
 Bitfund is accessible to investors from all over the world, and it supports a range of cryptocurrencies. The platform is user-friendly and easy to navigate, making it ideal for both novice and experienced investors. Investors can contribute to the pool using their preferred cryptocurrency, and they can withdraw their profits at any time.
 
 In summary, Bitfund is a unique investment platform that offers investors an opportunity to earn daily profits through a secure and transparent trading pool. With its team of professional traders and cutting-edge technology, Bitfund is a reliable investment option for anyone looking to grow their BNB portfolio.
+
+<figure><img src="../.gitbook/assets/BitFund_Logo with frame900.png" alt=""><figcaption></figcaption></figure>
