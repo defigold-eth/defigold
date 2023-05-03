@@ -16,4 +16,8 @@ Accessible to investors worldwide and supporting a range of cryptocurrencies, Bi
 
 In summary, Bitfund is a reliable investment option for anyone looking to grow their portfolio and become part of a community of venture capitalists. With its team of professional traders, analysts, and cutting-edge technology, Bitfund offers investors a unique opportunity to earn daily profits through a secure and transparent trading pool.
 
+DAPP LAUNCH COMING SOON......
+
+
+
 <figure><img src="../.gitbook/assets/BitFund_Logo with frame900.png" alt=""><figcaption></figcaption></figure>
